@@ -1,17 +1,15 @@
 @echo on
-@prompt $G$S
+@prompt $S
 
 git status
-echo %errorlevel%
 
-@choice /C SN /M "Subir atualização" /T 2 /D N
-echo %errorlevel%
+@choice /C SN /M "Subir atualiza‡Æo" /T 20 /D N
 @if errorlevel 2 goto fim
 
 git add .
-git commit -m "Atualização"
+git commit -m "Atualiza‡Æo"
 git push
 git status
 
 :fim
-@@prompt $P$G$S
+@prompt $P$G$S
