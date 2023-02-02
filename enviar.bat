@@ -1,4 +1,6 @@
 @echo on
+git status
 git add .
-git commit -m "AtualizaÃ§Ã£o"
+git commit -m "Atualização"
 git push
+git status
