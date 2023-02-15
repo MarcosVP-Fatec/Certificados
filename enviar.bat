@@ -10,8 +10,9 @@ git add .
 git commit -m "Atualiza‡Æo"
 git push
 git status
-echo.
-pause
+
+@echo.
+@pause
 
 :fim
 @prompt $P$G$S
