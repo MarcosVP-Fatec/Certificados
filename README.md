@@ -1,5 +1,11 @@
 # Marcos Vinicio Pereira
-# Contatos
-  marcos.pereira47@fatec.sp.gov.br  
-  marcos.vinicio.per@gmail.com
-## Certificados Extra Curriculares
+
+## Contacts
+**English [Linked-In](https://www.linkedin.com/in/marcos-vinicio-pereira/?locale=en_US)**  
+**Portuguese [Linked-In](https://www.linkedin.com/in/marcos-vinicio-pereira/)**  
+**E-mail <marcos.vinicio.per@gmail.com>**
+
+## Resume
+
+
+## Certificates
