@@ -1,6 +1,5 @@
 # Marcos Vinicio Pereira
 
-<style>
     table.padrao {
       border-collapse: collapse;
       width: 70%;
@@ -12,7 +11,6 @@
       padding: 8px;
       text-align: center;
     }
-</style>
 
 <table class="padrao">
     <thead>
