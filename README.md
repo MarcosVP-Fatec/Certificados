@@ -1,16 +1,6 @@
-# Marcos Vinicio Pereira
+<link rel="stylesheet" type="text/css" href="readme.css">
 
-    table.padrao {
-      border-collapse: collapse;
-      width: 70%;
-      font-weight: bold;
-    }
-    
-    table.padrao th, table.padrao td {
-      border: 1px solid #000;
-      padding: 8px;
-      text-align: center;
-    }
+# Marcos Vinicio Pereira
 
 <table class="padrao">
     <thead>
