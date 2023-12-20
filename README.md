@@ -6,7 +6,7 @@
 **E-mail <marcos.vinicio.per@gmail.com>**
 
 ## Resume
-**[English](https://github.com/MarcosVP-Fatec/Certificados/blob/main/cv/MARCOS-VINICIO-PEREIRA-Curriculo%20-%20English.pdf)**  
-**[Português](https://github.com/MarcosVP-Fatec/Certificados/blob/main/cv/MARCOS-VINICIO-PEREIRA-Curriculo.pdf)**
+**[English](https://github.com/MarcosVP-Fatec/Certificados/blob/main/CV-Resume/MARCOS-VINICIO-PEREIRA-Curriculo%20-%20English.pdf)**  
+**[Português](https://github.com/MarcosVP-Fatec/Certificados/blob/main/CV-Resume/MARCOS-VINICIO-PEREIRA-Curriculo.pdf)**
 
 
