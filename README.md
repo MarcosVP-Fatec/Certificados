@@ -1,11 +1,10 @@
-<link rel="stylesheet" type="text/css" href="readme.css">
-
 # Marcos Vinicio Pereira
 
-<table class="padrao">
+
+<table style="border-collapse: collapse; width: 70%; font-weight: bold; border: 1px solid #000; padding: 8px;text-align:center;">
     <thead>
         <tr>
-            <th colspan="2" style="text-align:center">Contacts ( Contatos )</th>
+            <th colspan="2">Contacts ( Contatos )</th>
         </tr>
     </thead>
     <tbody>
@@ -23,7 +22,7 @@
     </tbody>
 </table>
 
-<table class="padrao">
+<table style="border-collapse: collapse; width: 70%; font-weight: bold; border: 1px solid #000; padding: 8px;text-align:center;">
     <thead>
         <tr>
             <th colspan="2" style="text-align:center">Resume (Currículo)</th>
